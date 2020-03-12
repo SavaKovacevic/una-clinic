@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/una-clinic/static/css/main.5957d86f.chunk.css",
-    "main.js": "/una-clinic/static/js/main.d89cf1e0.chunk.js",
-    "main.js.map": "/una-clinic/static/js/main.d89cf1e0.chunk.js.map",
+    "main.js": "/una-clinic/static/js/main.35d603d9.chunk.js",
+    "main.js.map": "/una-clinic/static/js/main.35d603d9.chunk.js.map",
     "runtime-main.js": "/una-clinic/static/js/runtime-main.afb76636.js",
     "runtime-main.js.map": "/una-clinic/static/js/runtime-main.afb76636.js.map",
     "static/js/2.34aeb33c.chunk.js": "/una-clinic/static/js/2.34aeb33c.chunk.js",
     "static/js/2.34aeb33c.chunk.js.map": "/una-clinic/static/js/2.34aeb33c.chunk.js.map",
     "index.html": "/una-clinic/index.html",
-    "precache-manifest.baa3345e6a8d94fa2cda26e466b01422.js": "/una-clinic/precache-manifest.baa3345e6a8d94fa2cda26e466b01422.js",
+    "precache-manifest.5db9d55b9f028d538c0a0b6561e1a454.js": "/una-clinic/precache-manifest.5db9d55b9f028d538c0a0b6561e1a454.js",
     "service-worker.js": "/una-clinic/service-worker.js",
     "static/css/main.5957d86f.chunk.css.map": "/una-clinic/static/css/main.5957d86f.chunk.css.map",
     "static/media/1.jpeg": "/una-clinic/static/media/1.0cae0127.jpeg",
@@ -45,6 +45,6 @@
     "static/js/runtime-main.afb76636.js",
     "static/js/2.34aeb33c.chunk.js",
     "static/css/main.5957d86f.chunk.css",
-    "static/js/main.d89cf1e0.chunk.js"
+    "static/js/main.35d603d9.chunk.js"
   ]
 }

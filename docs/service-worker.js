@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/una-clinic/precache-manifest.baa3345e6a8d94fa2cda26e466b01422.js"
+  "/una-clinic/precache-manifest.5db9d55b9f028d538c0a0b6561e1a454.js"
 );
 
 self.addEventListener('message', (event) => {

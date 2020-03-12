@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edc588362c3476dc3b57b8468ef2098e",
+    "revision": "35dbb50a1311f923fb51449551e7b514",
     "url": "/una-clinic/index.html"
   },
   {
-    "revision": "cca906a88991149b9776",
+    "revision": "b3b18c9836acb9620813",
     "url": "/una-clinic/static/css/main.5957d86f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/una-clinic/static/js/2.34aeb33c.chunk.js"
   },
   {
-    "revision": "cca906a88991149b9776",
-    "url": "/una-clinic/static/js/main.d89cf1e0.chunk.js"
+    "revision": "b3b18c9836acb9620813",
+    "url": "/una-clinic/static/js/main.35d603d9.chunk.js"
   },
   {
     "revision": "6371a603d5c38118bfb0",
